@@ -3,13 +3,13 @@
 - [ ] Linux
   - [x] Linux VM installation
   - [x] Linux File system
-  - [ ] Basic Linux Commands
+  - [x] Basic Linux Commands
   - [ ] Using Vim
   - [ ] Intermediate Linux Skills
   - [ ] Other parts Linux related
   
 - [ ] Docker
-  - [ ] Intro to Docker
+  - [x] Intro to Docker
   - [ ] Basic Docker commands
   - [ ] Docker run command and other info
   - [ ] Docker Compose
