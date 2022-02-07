@@ -11,7 +11,8 @@
 - [ ] Docker
   - [x] Intro to Docker
   - [x] Basic Docker commands
-  - [ ] Docker run command and other info
+  - [x] Docker run command and other info
+  - [ ] Docker Images
   - [ ] Docker Compose
   - [ ] Networking
 
