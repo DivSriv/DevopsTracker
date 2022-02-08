@@ -12,7 +12,7 @@
   - [x] Intro to Docker
   - [x] Basic Docker commands
   - [x] Docker run command and other info
-  - [ ] Docker Images
+  - [x] Docker Images
   - [ ] Docker Compose
   - [ ] Networking
 
