@@ -13,7 +13,8 @@
   - [x] Basic Docker commands
   - [x] Docker run command and other info
   - [x] Docker Images
-  - [ ] Docker Compose
+  - [x] Docker Compose
+  - [ ] Docker Storage
   - [ ] Networking
 
 - [ ] Kubernetes
