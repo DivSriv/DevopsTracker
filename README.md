@@ -5,7 +5,8 @@
   - [x] Linux File system
   - [x] Basic Linux Commands
   - [x] Using Vim
-  - [ ] Intermediate Linux Skills
+  - [x] Intermediate Linux Skills
+  - [ ] Linux Boot Process and System Logging
   - [ ] Other parts Linux related
   
 - [ ] Docker
