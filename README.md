@@ -17,8 +17,10 @@
   - [x] Docker run command and other info
   - [x] Docker Images
   - [x] Docker Compose
-  - [ ] Docker Storage
+  - [x] Docker Storage
   - [ ] Networking
+  - [ ] Docker on Mac & Window
+  - [ ] Intro to Container Orchestration - Docker Swarm & Kubernetes
 
 - [ ] Kubernetes
 
