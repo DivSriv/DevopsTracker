@@ -6,7 +6,7 @@
   - [x] Basic Linux Commands
   - [x] Using Vim
   - [x] Intermediate Linux Skills
-  - [ ] Linux Boot Process and System Logging
+  - [x] Linux Boot Process and System Logging
   - [ ] LVM - The Logical Volume Manager
   - [ ] Networking
   - [ ] Other parts Linux related
