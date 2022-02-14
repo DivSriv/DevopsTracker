@@ -13,8 +13,8 @@
     - [ ] Other parts Linux related
 
   - [ ] DevOps Pre-Requisite Course
-    - [ ] Intro
-    - [ ] Linux Basics
+    - [x] Intro
+    - [x] Linux Basics
     - [ ] Virtual Box Lab Setup
     - [ ] Networking Basics
     - [ ] Applications Basics 
