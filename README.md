@@ -8,8 +8,12 @@
     - [x] Using Vim
     - [x] Intermediate Linux Skills
     - [x] Linux Boot Process and System Logging
+    - [ ] Disk Management
     - [ ] LVM - The Logical Volume Manager
     - [ ] Networking
+    - [ ] Advanced Linux Permissions
+    - [ ] Shell Scripting
+    - [ ] Advanced Command Line Skills - Command Line Kung Fu
     - [ ] Other parts Linux related
 
   - [ ] DevOps Pre-Requisite Course
