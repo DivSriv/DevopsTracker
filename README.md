@@ -19,7 +19,9 @@
   - [ ] DevOps Pre-Requisite Course
     - [x] Intro
     - [x] Linux Basics
-    - [ ] Virtual Box Lab Setup
+    - [x] Linux Package Managers and services configuration
+    - [x] Virtual Box Intro
+    - [x] Virtual Box Lab Setup
     - [ ] Networking Basics
     - [ ] Applications Basics 
     - [ ] Source Control Management (SCM) 
