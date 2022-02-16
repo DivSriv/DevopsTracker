@@ -8,8 +8,8 @@
     - [x] Using Vim
     - [x] Intermediate Linux Skills
     - [x] Linux Boot Process and System Logging
-    - [ ] Disk Management
-    - [ ] LVM - The Logical Volume Manager
+    - [x] Disk Management
+    - [x] LVM - The Logical Volume Manager
     - [ ] Networking
     - [ ] Advanced Linux Permissions
     - [ ] Shell Scripting
