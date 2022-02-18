@@ -10,7 +10,7 @@
     - [x] Linux Boot Process and System Logging
     - [x] Disk Management
     - [x] LVM - The Logical Volume Manager
-    - [ ] Networking
+    - [x] Networking
     - [ ] Advanced Linux Permissions
     - [ ] Shell Scripting
     - [ ] Advanced Command Line Skills - Command Line Kung Fu
