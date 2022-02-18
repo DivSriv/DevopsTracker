@@ -22,7 +22,7 @@
     - [x] Linux Package Managers and services configuration
     - [x] Virtual Box Intro
     - [x] Virtual Box Lab Setup
-    - [ ] Networking Basics
+    - [x] VBox Networking Basics
     - [ ] Applications Basics 
     - [ ] Source Control Management (SCM) 
     - [ ] Web Server 
