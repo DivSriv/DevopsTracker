@@ -11,7 +11,7 @@
     - [x] Disk Management
     - [x] LVM - The Logical Volume Manager
     - [x] Networking
-    - [ ] Advanced Linux Permissions
+    - [x] Advanced Linux Permissions
     - [ ] Shell Scripting
     - [ ] Advanced Command Line Skills - Command Line Kung Fu
     - [ ] Other parts Linux related
