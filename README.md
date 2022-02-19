@@ -13,7 +13,7 @@
     - [x] Networking
     - [x] Advanced Linux Permissions
     - [x] Shell Scripting
-    - [ ] Advanced Command Line Skills - Command Line Kung Fu
+    - [x] Advanced Command Line Skills - Command Line Kung Fu
     - [ ] Other parts Linux related
 
   - [ ] DevOps Pre-Requisite Course
