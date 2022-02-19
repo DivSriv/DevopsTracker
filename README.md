@@ -12,7 +12,7 @@
     - [x] LVM - The Logical Volume Manager
     - [x] Networking
     - [x] Advanced Linux Permissions
-    - [ ] Shell Scripting
+    - [x] Shell Scripting
     - [ ] Advanced Command Line Skills - Command Line Kung Fu
     - [ ] Other parts Linux related
 
