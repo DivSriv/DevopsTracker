@@ -1,7 +1,7 @@
 # DSDevOpsTracker
 
 ### Linux & Devops other Pre-requisites 
-  - [ ] Linux
+  - [x] Linux
     - [x] Linux VM installation
     - [x] Linux File system
     - [x] Basic Linux Commands
@@ -14,7 +14,7 @@
     - [x] Advanced Linux Permissions
     - [x] Shell Scripting
     - [x] Advanced Command Line Skills - Command Line Kung Fu
-    - [ ] Other parts Linux related
+    - [x] Other parts Linux related
 
   - [ ] DevOps Pre-Requisite Course
     - [x] Intro
