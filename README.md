@@ -1,6 +1,6 @@
 # DSDevOpsTracker
 
-### Linux & Devops other Pre-requisites 
+### Linux  
   - [x] Linux
     - [x] Linux VM installation
     - [x] Linux File system
@@ -16,6 +16,18 @@
     - [x] Advanced Command Line Skills - Command Line Kung Fu
     - [x] Other parts Linux related
 
+  - [ ] Linux Shell Scripting: A Project-Based Approach to Learning
+    - [ ] Creating a Local Linux Shell Scripting Environment
+    - [ ] User and Account Creation - Shell Scripting Project 1
+    - [ ] Password Generation and Shell Script Arguments - Shell Scripting Project 2
+    - [ ] Linux Programming Conventions - Shell Scripting Project 3
+    - [ ] Parsing Command Line Options – Shell Scripting Project 4
+    - [ ] Transforming Data / Data Processing / Reporting – Shell Scripting Project 5
+    - [ ] Network Scripting & Automation of Distributed Systems: Shell Scripting Project 6
+    - [ ] Extras 
+
+
+### Devops other Pre-requisites
   - [ ] DevOps Pre-Requisite Course
     - [x] Intro
     - [x] Linux Basics
