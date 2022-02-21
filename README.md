@@ -1,6 +1,6 @@
 # DSDevOpsTracker
 
-### Linux  
+## Linux  
   - [x] Linux
     - [x] Linux VM installation
     - [x] Linux File system
@@ -27,7 +27,7 @@
     - [ ] Extras 
 
 
-### Devops other Pre-requisites
+## Devops other Pre-requisites
   - [ ] DevOps Pre-Requisite Course
     - [x] Intro
     - [x] Linux Basics
@@ -44,7 +44,7 @@
     - [ ] 2 Tier Applications
 
 
-### Docker & Docker Swarm
+## Docker & Docker Swarm
   - [x] Docker for Beginners
     - [x] Intro to Docker
     - [x] Basic Docker commands
@@ -68,8 +68,6 @@
     - [ ] Docker on Cloud
     - [ ] Kubernetes Introduction
 
-### Kubernetes
+## Kubernetes
 - [ ] Kubernetes
-
-- [ ] Computer Networks
 
