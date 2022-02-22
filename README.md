@@ -33,15 +33,16 @@
     - [x] Linux Basics
     - [x] Linux Package Managers and services configuration
     - [x] Virtual Box Intro
-    - [x] Virtual Box Lab Setup
+    - [x] Virtual Box VMs Setup
     - [x] VBox Networking Basics
+    - [ ] Vagrant
+    - [ ] Networking - DNS, Switching & Routing, etc
     - [ ] Applications Basics 
-    - [ ] Source Control Management (SCM) 
     - [ ] Web Server 
+    - [ ] 2 Tier Applications    
     - [ ] Database Basics
-    - [ ] Security
-    - [ ] General Pre-Requisites 
-    - [ ] 2 Tier Applications
+    - [ ] General Pre-Requisites - YAML & JSON
+
 
 
 ## Docker & Docker Swarm
