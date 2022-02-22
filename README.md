@@ -35,8 +35,8 @@
     - [x] Virtual Box Intro
     - [x] Virtual Box VMs Setup
     - [x] VBox Networking Basics
-    - [ ] Vagrant
-    - [ ] Networking - DNS, Switching & Routing, etc
+    - [x] Vagrant
+    - [x] Networking - DNS, Switching & Routing, etc
     - [ ] Applications Basics 
     - [ ] Web Server 
     - [ ] 2 Tier Applications    
