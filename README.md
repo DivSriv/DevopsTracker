@@ -28,7 +28,7 @@
 
 
 ## Devops other Pre-requisites
-  - [ ] DevOps Pre-Requisite Course
+  - [x] DevOps Pre-Requisite Course
     - [x] Intro
     - [x] Linux Basics
     - [x] Linux Package Managers and services configuration
@@ -37,11 +37,11 @@
     - [x] VBox Networking Basics
     - [x] Vagrant
     - [x] Networking - DNS, Switching & Routing, etc
-    - [ ] Applications Basics 
-    - [ ] Web Server 
+    - [x] Applications Basics 
+    - [x] Web Server 
     - [ ] 2 Tier Applications    
     - [ ] Database Basics
-    - [ ] General Pre-Requisites - YAML & JSON
+    - [x] General Pre-Requisites - YAML & JSON
 
 
 
