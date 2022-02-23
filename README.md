@@ -17,7 +17,7 @@
     - [x] Other parts Linux related
 
   - [ ] Linux Shell Scripting: A Project-Based Approach to Learning
-    - [ ] Creating a Local Linux Shell Scripting Environment
+    - [x] Creating a Local Linux Shell Scripting Environment
     - [ ] User and Account Creation - Shell Scripting Project 1
     - [ ] Password Generation and Shell Script Arguments - Shell Scripting Project 2
     - [ ] Linux Programming Conventions - Shell Scripting Project 3
