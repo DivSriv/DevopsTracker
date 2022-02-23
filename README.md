@@ -27,6 +27,7 @@
     - [ ] Extras 
 
 
+
 ## Devops other Pre-requisites
   - [x] DevOps Pre-Requisite Course
     - [x] Intro
@@ -69,6 +70,21 @@
     - [ ] Docker on Cloud
     - [ ] Kubernetes Introduction
 
+
+
 ## Kubernetes
-- [ ] Kubernetes
+- [ ] Kubernetes for the Absolute Beginners - Hands-on
+  - [ ] Introduction
+  - [ ] Kubernetes Overview
+  - [ ] Setup Kubernetes
+  - [ ] Kubernetes Concepts
+  - [ ] YAML Introduction
+  - [ ] Kubernetes Concepts - PODs, ReplicaSets, Deployments
+  - [ ] Networking in Kubernetes
+  - [ ] Services
+  - [ ] Microservices Architecture
+  - [ ] Kubernetes on Cloud
+  - [ ] Conclusion
+  - [ ] Appendix - Setup Multi Node cluster using Kubeadm
+
 
