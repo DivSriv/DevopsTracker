@@ -18,7 +18,7 @@
 
   - [ ] Linux Shell Scripting: A Project-Based Approach to Learning
     - [x] Creating a Local Linux Shell Scripting Environment
-    - [ ] User and Account Creation - Shell Scripting Project 1
+    - [x] User and Account Creation - Shell Scripting Project 1
     - [ ] Password Generation and Shell Script Arguments - Shell Scripting Project 2
     - [ ] Linux Programming Conventions - Shell Scripting Project 3
     - [ ] Parsing Command Line Options – Shell Scripting Project 4
