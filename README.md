@@ -75,7 +75,7 @@
 ## Kubernetes
 - [ ] Kubernetes for the Absolute Beginners - Hands-on
   - [x] Introduction
-  - [ ] Kubernetes Overview
+  - [x] Kubernetes Overview
   - [ ] Setup Kubernetes
   - [ ] Kubernetes Concepts
   - [ ] YAML Introduction
