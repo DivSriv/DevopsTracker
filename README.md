@@ -77,7 +77,7 @@
   - [x] Introduction
   - [x] Kubernetes Overview
   - [x] Setup Kubernetes
-  - [ ] Kubernetes Concepts
+  - [x] Kubernetes Concepts
   - [ ] YAML Introduction
   - [ ] Kubernetes Concepts - PODs, ReplicaSets, Deployments
   - [ ] Networking in Kubernetes
