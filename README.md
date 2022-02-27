@@ -76,7 +76,7 @@
 - [ ] Kubernetes for the Absolute Beginners - Hands-on
   - [x] Introduction
   - [x] Kubernetes Overview
-  - [ ] Setup Kubernetes
+  - [x] Setup Kubernetes
   - [ ] Kubernetes Concepts
   - [ ] YAML Introduction
   - [ ] Kubernetes Concepts - PODs, ReplicaSets, Deployments
