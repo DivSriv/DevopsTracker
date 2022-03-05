@@ -40,8 +40,8 @@
     - [x] Networking - DNS, Switching & Routing, etc
     - [x] Applications Basics 
     - [x] Web Server 
-    - [ ] 2 Tier Applications    
-    - [ ] Database Basics
+    - [x] 2 Tier Applications    
+    - [x] Database Basics
     - [x] General Pre-Requisites - YAML & JSON
 
 
