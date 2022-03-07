@@ -59,7 +59,7 @@
     - [x] Intro to Container Orchestration - Docker Swarm & Kubernetes
 
   - [ ] Docker – SWARM | SERVICES | STACKS – Hands-on
-    - [ ] Docker on Windows
+    - [ ] Introduction
     - [ ] Docker Architecture in Depth
     - [ ] Docker Compose
     - [ ] Docker Swarm
