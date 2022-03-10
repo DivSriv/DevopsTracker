@@ -20,7 +20,7 @@
     - [x] Creating a Local Linux Shell Scripting Environment
     - [x] User and Account Creation - Shell Scripting Project 1
     - [x] Password Generation and Shell Script Arguments - Shell Scripting Project 2
-    - [ ] Linux Programming Conventions - Shell Scripting Project 3
+    - [x] Linux Programming Conventions - Shell Scripting Project 3
     - [ ] Parsing Command Line Options – Shell Scripting Project 4
     - [ ] Transforming Data / Data Processing / Reporting – Shell Scripting Project 5
     - [ ] Network Scripting & Automation of Distributed Systems: Shell Scripting Project 6
